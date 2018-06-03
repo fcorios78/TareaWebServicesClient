@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8085/WebServices/wsAvion?Tester" uri="wsdl/localhost_8085/WebServices/wsAvion.tester"/>
+    <system systemId="http://localhost:8085/WebServices/wsAvion?WSDS" uri="wsdl/localhost_8085/WebServices/wsAvion.wsds"/>
+    <system systemId="http://localhost:8085/WebServices/wsAvion?wsdl" uri="wsdl/localhost_8085/WebServices/wsAvion.wsdl"/>
+    <system systemId="http://localhost:8085/WebServices/wsAvion?xsd=1" uri="wsdl/localhost_8085/WebServices/wsAvion.xsd_1.xsd"/>
+</catalog>
